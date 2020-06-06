@@ -28,6 +28,7 @@
 ## Codecs for DVDs
 
 ### Optional
+AppImages: https://mxlinux.org/wiki/applications/appimages/ (* DIDN'T WORK FOR ME *)
 
 
 
